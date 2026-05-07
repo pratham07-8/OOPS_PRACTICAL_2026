@@ -1,0 +1,17 @@
+4. Constructors
+●	WAP to demonstrate default, parameterized, copy, and overloaded constructors.
+●	WAP to demonstrate dynamic initialization using constructors.
+5. Operator Overloading
+●	WAP to demonstrate operator overloading for +, -, ++, ==, and << operators.
+6. Inheritance
+●	WAP to demonstrate single, multiple, multilevel, hierarchical, and hybrid inheritance.
+7. Function Overriding & Polymorphism
+●	WAP to demonstrate function overriding and runtime polymorphism.
+8. Virtual Functions
+●	WAP to demonstrate virtual functions and abstract classes using Shape example.
+9. Containership (Composition)
+●	WAP to demonstrate containership using real-life classes (Car–Engine).
+10. Application-Based Program
+●	WAP to develop a Currency Converter using menu-driven approach.
+11. Integrated Program
+●	WAP to design a Bank Management System using OOP concepts.
